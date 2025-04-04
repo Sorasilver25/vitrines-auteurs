@@ -1,0 +1,36 @@
+[
+    {
+      "title": "Mon Super Livre",
+      "description": "Un thriller captivant auto-édité.",
+      "link": "https://mon-livre.com",
+      "images": [
+        "/src/assets/images/book1.jpeg",
+        "/src/assets/images/book3.png"
+      ],
+      "socials": [
+        { "link": "https://twitter.com", "icon": "fab fa-twitter" },
+        { "link": "https://facebook.com", "icon": "fab fa-facebook" }
+      ],
+      "author": "John Doe",
+      "category": "Thriller",
+      "nouveau":0,
+      "coupDeCoeur":1,
+      "promo":1
+    },
+    {
+      "title": "Le Mystère du Lac",
+      "description": "Une enquête palpitante dans un décor mystérieux.",
+      "link": "https://le-livre.com",
+      "images": [
+        "/src/assets/images/book1.jpeg",
+        "/src/assets/images/book3.png"
+      ],
+      "socials": [
+        { "link": "https://instagram.com", "icon": "fab fa-instagram" },
+        { "link": "https://linkedin.com", "icon": "fab fa-linkedin" }
+      ],
+      "author": "Jane Smith",
+      "category": "Mystère"
+    }
+  ]
+  

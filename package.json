@@ -1,0 +1,19 @@
+{
+  "name": "vitrine-auteurs",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.3",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.3.2",
+    "vite": "^5.0.0"
+  },
+  "dependencies": {
+    "vue": "^3.4.15"
+  }
+}
