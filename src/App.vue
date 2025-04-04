@@ -29,7 +29,7 @@ import Header from './components/Header.vue'
 import Footer from './components/Footer.vue'
 import BookCard from './components/BookCard.vue'
 
-// Importation du fichier JSON (exemple)
+// Importation du fichier JSON
 import booksData from './assets/authors.json'
 
 // Stockage des livres dans une variable réactive
