@@ -4,8 +4,8 @@
       "description": "Un thriller captivant auto-édité.",
       "link": "https://mon-livre.com",
       "images": [
-        "/src/assets/images/book1.jpeg",
-        "/src/assets/images/book3.png"
+        "/assets/images/book1.jpeg",
+        "/assets/images/book3.png"
       ],
       "socials": [
         { "link": "https://twitter.com", "icon": "fab fa-twitter" },
@@ -22,8 +22,8 @@
       "description": "Une enquête palpitante dans un décor mystérieux.",
       "link": "https://le-livre.com",
       "images": [
-        "/src/assets/images/book1.jpeg",
-        "/src/assets/images/book3.png"
+        "/assets/images/book1.jpeg",
+        "/assets/images/book3.png"
       ],
       "socials": [
         { "link": "https://instagram.com", "icon": "fab fa-instagram" },
