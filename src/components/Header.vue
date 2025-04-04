@@ -24,10 +24,4 @@
 import { ref } from 'vue'
 
 const showModal = ref(false)
-
-function goTo(section) {
-  if (section === 'accueil') {
-    window.scrollTo({ top: 0, behavior: 'smooth' })
-  }
-}
 </script>
