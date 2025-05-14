@@ -1,36 +1,157 @@
 [
-    {
-      "title": "Mon Super Livre",
-      "description": "Un thriller captivant auto-édité.",
-      "link": "https://mon-livre.com",
-      "images": [
-        "/assets/images/book1.jpeg",
-        "/assets/images/book3.png"
-      ],
-      "socials": [
-        { "link": "https://twitter.com", "icon": "fab fa-twitter" },
-        { "link": "https://facebook.com", "icon": "fab fa-facebook" }
-      ],
-      "author": "John Doe",
-      "category": "Thriller",
-      "nouveau":0,
-      "coupDeCoeur":1,
-      "promo":1
-    },
-    {
-      "title": "Le Mystère du Lac",
-      "description": "Une enquête palpitante dans un décor mystérieux.",
-      "link": "https://le-livre.com",
-      "images": [
-        "/assets/images/book1.jpeg",
-        "/assets/images/book3.png"
-      ],
-      "socials": [
-        { "link": "https://instagram.com", "icon": "fab fa-instagram" },
-        { "link": "https://linkedin.com", "icon": "fab fa-linkedin" }
-      ],
-      "author": "Jane Smith",
-      "category": "Mystère"
-    }
-  ]
-  
+  {
+    "title": "Chastel : Ou le Secret de la Bestia",
+    "description": "Un thriller captivant auto-édité.",
+    "link": "https://www.amazon.fr/Chastel-Secret-Bestia-M-K-ebook/dp/B0F2GBSG88/",
+    "images": [
+      "/assets/images/MChastel_oulesecretdelaBestia.jpg"
+    ],
+    "socials": [
+      { "link": "https://www.instagram.com/auteurmk/", "icon": "fab fa-instagram" }
+    ],
+    "author": "M.K.",
+    "category": "Thriller",
+    "nouveau": 0,
+    "coupdecoeur": 1,
+    "promo": 1
+  },
+  {
+    "title": "La putain de Manhattan",
+    "description": "Une romance contemporaine, avec une vibe à la Pretty Woman.",
+    "link": "https://www.leslettresdemarine.com/la-putain-de-manhattan",
+    "images": [],
+    "socials": [
+      { "link": "https://www.instagram.com/leslettresdemarine/", "icon": "fab fa-instagram" }
+    ],
+    "author": "Marine Duchemin",
+    "category": "Romance contemporaine, feel-good",
+    "nouveau": 0,
+    "coupdecoeur": 1,
+    "promo": 1
+  },
+  {
+    "title": "Les battements de mon coeur",
+    "description": "Une romance contemporaine",
+    "link": "https://www.amazon.fr/dp/B0DVT4416L?ref=cm_sw_r_ffobk_mwn_dp_KOIE6OP0IYWQZ2LZVHWN&ref_=cm_sw_r_ffobk_mwn_dp_KOIE6OP0IYWQZ2LZVHWN&social_share=cm_sw_r_ffobk_mwn_dp_KOIE6OP0IYWQZ2LZVHWN&language=fr-FR&bestFormat=true",
+    "images": [
+      "/assets/images/LaetitiaDeMenech-Lesbattementsdetoncoeur.jpg"
+    ],
+    "socials": [
+      { "link": "https://www.instagram.com/laetitiadm_auteure/", "icon": "fab fa-instagram" }
+    ],
+    "author": "Laetitia De Menech",
+    "category": "Romance contemporaine",
+    "nouveau": 0,
+    "coupdecoeur": 1,
+    "promo": 1
+  },
+  {
+    "title": "Ensemble",
+    "description": "Une romance contemporaine, avec une vibe à la Pretty Woman.",
+    "link": "https://www.amazon.fr/dp/B0D6M6SY1B?__mk_fr_FR=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&crid=2XJNHFVD8UOY9&dib=eyJ2IjoiMSJ9.i4v3a9XBo8M2C7kYXYCaiA.LUzp1wTKUYOjzu-nTrEXCbJ8YWagiWqTxM_2sDClmXE&dib_tag=se&keywords=celine%20bigler&qid=1738942163&sprefix=celine%20bigler,aps,87&sr=8-1",
+    "images": [
+      "/assets/images/CelineBigler-Ensemble.jpg"
+
+    ],
+    "socials": [
+      { "link": "https://www.instagram.com/celinebigler.autrice/", "icon": "fab fa-instagram" }
+    ],
+    "author": "Céline Bigler",
+    "category": "Roman",
+    "nouveau": 0,
+    "coupdecoeur": 1,
+    "promo": 1
+  },
+  {
+    "title": "La loyauté du Royaume",
+    "description": "Une romance contemporaine, avec une vibe à la Pretty Woman.",
+    "link": "https://lauravictoriabb.fr/",
+    "images": [
+      "/assets/images/LauraVictoriaBousseauBleyer-Laloyeauteduroyame.jpg"
+    ],
+    "socials": [
+      { "link": "https://www.instagram.com/lauravictoria.autrice/", "icon": "fab fa-instagram" }
+    ],
+    "author": "Laura-Victoria Bousseau-Bleyer",
+    "category": "Fantasy",
+    "nouveau": 0,
+    "coupdecoeur": 1,
+    "promo": 1
+  },
+  {
+    "title": "Moi, j'ai été choisie",
+    "description": "Toute vue est unique, celle-ci est la mienne.",
+    "link": "https://lauravictoriabb.fr/",
+    "images": [],
+    "socials": [
+      { "link": "https://www.instagram.com/laplumededom/", "icon": "fab fa-instagram" }
+    ],
+    "author": "La plume de Dom",
+    "category": "Témoignage",
+    "nouveau": 0,
+    "coupdecoeur": 1,
+    "promo": 1
+  },
+  {
+    "title": "Glow up Beach !",
+    "description": "Toute vue est unique, celle-ci est la mienne.",
+    "link": "https://www.amazon.fr/dp/B0F1YTYYCF?ref=cm_sw_r_ffobk_cp_ud_dp_XY00NYZQGH3DEXKAW1WG&ref_=cm_sw_r_ffobk_cp_ud_dp_XY00NYZQGH3DEXKAW1WG&social_share=cm_sw_r_ffobk_cp_ud_dp_XY00NYZQGH3DEXKAW1WG&bestFormat=true",
+    "images": [
+      "/assets/images/EmmaHermosa-GlowupBeach.jpg"
+    ],
+    "socials": [
+      { "link": "https://www.instagram.com/hermosa_stories/", "icon": "fab fa-instagram" }
+    ],
+    "author": "Emma Hermosa",
+    "category": "Comédie romantique",
+    "nouveau": 0,
+    "coupdecoeur": 1,
+    "promo": 1
+  },
+  {
+    "title": "Rouge sang",
+    "description": "Toute vue est unique, celle-ci est la mienne.",
+    "link": "https://www.amazon.fr/dp/B0CLCDPRSC?ref_=cm_sw_r_cp_ud_dp_7ZW0QG6TC9PE1DA96KGS",
+    "images": [
+      "/assets/images/Nadege-Rougesang.jpg"
+    ],
+    "socials": [
+      { "link": "https://www.instagram.com/chipdel/", "icon": "fab fa-instagram" }
+    ],
+    "author": "Nadège",
+    "category": "Dark Fantasy",
+    "nouveau": 0,
+    "coupdecoeur": 1,
+    "promo": 1
+  },
+  {
+    "title": "La dame au rat",
+    "description": "Toute vue est unique, celle-ci est la mienne.",
+    "link": "https://www.amazon.fr/dp/B0DFGF5PFV?ref=cm_sw_r_ffobk_cso_cp_apan_dp_W94F0WM3B96B43NHPPH4&ref_=cm_sw_r_ffobk_cso_cp_apan_dp_W94F0WM3B96B43NHPPH4&social_share=cm_sw_r_ffobk_cso_cp_apan_dp_W94F0WM3B96B43NHPPH4&bestFormat=true&previewDoh=1",
+    "images": [],
+    "socials": [
+      { "link": "https://www.instagram.com/chipdel/", "icon": "fab fa-instagram" }
+    ],
+    "author": "Amandine Landrieux",
+    "category": "Dark Fantasy",
+    "nouveau": 0,
+    "coupdecoeur": 1,
+    "promo": 1
+  },
+  {
+    "title": "Runic Legacy: Episode 1 - Le secret oublié",
+    "description": "Toute vue est unique, celle-ci est la mienne.",
+    "link": "https://www.amazon.fr/dp/2959508904",
+    "images": [
+      "/assets/images/AnthonyDoms-RunicLegacy.jpg"
+    ],
+    "socials": [
+      { "link": "https://www.instagram.com/domsanthony/", "icon": "fab fa-instagram" }
+    ],
+    "author": "Anthony Doms",
+    "category": "Fantasy, science-fiction, horreur",
+    "nouveau": 0,
+    "coupdecoeur": 1,
+    "promo": 1
+  }
+]
