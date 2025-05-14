@@ -1,61 +1,37 @@
 <template>
-  <div class="flex flex-col sm:flex-row bg-white rounded-2xl shadow-lg overflow-hidden mb-6 border border-gray-200">
+  <div class="border rounded-xl shadow-md p-4 flex gap-4 mb-6">
     <!-- Carrousel d'images -->
-    <div class="relative w-full sm:w-40 h-60 flex-shrink-0">
-      <img
-        :src="resolvedImages[currentImageIndex]"
-        :alt="title"
-        class="w-full h-full object-cover"
-      />
-      <button
-        @click="prevImage"
-        class="absolute top-1/2 left-2 -translate-y-1/2 bg-white/70 hover:bg-white p-1 rounded-full shadow text-gray-600"
-      >
-        ‹
-      </button>
-      <button
-        @click="nextImage"
-        class="absolute top-1/2 right-2 -translate-y-1/2 bg-white/70 hover:bg-white p-1 rounded-full shadow text-gray-600"
-      >
-        ›
-      </button>
+    <div class="relative w-full sm:w-32 h-auto sm:h-48 overflow-hidden relative">
+      <div v-for="(img, index) in images" :key="index" 
+           :class="['absolute transition-all', { 'opacity-0': index !== currentImageIndex, 'opacity-100': index === currentImageIndex }]">
+        <img :src="img" :alt="title" class="w-full h-full object-cover rounded-md" />
+      </div>
+      <button @click="prevImage" class="absolute top-1/2 left-0 transform -translate-y-1/2 bg-gray-600 text-white p-2 rounded-full sm:block hidden">‹</button>
+      <button @click="nextImage" class="absolute top-1/2 right-0 transform -translate-y-1/2 bg-gray-600 text-white p-2 rounded-full sm:block hidden">›</button>
     </div>
 
-    <!-- Infos -->
-    <div class="flex-1 p-4 flex flex-col justify-between">
-      <div>
-        <h3 class="text-xl font-semibold text-gray-800">{{ title }}</h3>
-        <span v-if="nouveau" class="bg-green-100 text-green-700 text-xs px-2 py-0.5 rounded-full">Nouveau</span>
+    <!-- Info-->
+    <div class="ml-4">
+      <h3 class="text-xl font-semibold text-gray-800">{{ title }}</h3>
+      <span v-if="nouveau" class="bg-green-100 text-green-700 text-xs px-2 py-0.5 rounded-full">Nouveau</span>
         <span v-if="coupDeCoeur" class="bg-pink-100 text-pink-700 text-xs px-2 py-0.5 rounded-full">❤️ Coup de cœur</span>
         <span v-if="promo" class="bg-yellow-100 text-yellow-700 text-xs px-2 py-0.5 rounded-full">Promo</span>
-        <p class="text-sm text-gray-600 mt-2">{{ description }}</p>
-      </div>
+      <p class="text-sm text-gray-600 mt-2">{{ description }}</p>
+      
+      <!-- Lien vers le site d'achat -->
+      <a :href="link" target="_blank" class="text-purple-600 underline block my-2">Découvrir</a>
 
-      <div class="mt-4 space-y-1 text-sm text-gray-700">
-        <p><strong>Auteur :</strong> {{ author }}</p>
-        <p><strong>Catégorie :</strong> {{ category }}</p>
-      </div>
-
-      <!-- Lien + Réseaux -->
-      <div class="mt-4 flex items-center justify-between">
-        <a
-          :href="link"
-          target="_blank"
-          class="text-sm text-purple-600 hover:underline font-medium bg-purple-100 px-3 py-1 rounded-full"
-        >
-          Découvrir
+      <!-- Réseaux sociaux -->
+      <div class="flex space-x-3">
+        <a v-for="(social, index) in socials" :key="index" :href="social.link" target="_blank" class="text-gray-500 hover:text-purple-600 text-lg">
+          <i :class="social.icon" class="text-lg"></i>
         </a>
-        <div class="flex space-x-3">
-          <a
-            v-for="(social, index) in socials"
-            :key="index"
-            :href="social.link"
-            target="_blank"
-            class="text-gray-500 hover:text-purple-600 text-lg"
-          >
-            <i :class="social.icon"></i>
-          </a>
-        </div>
+      </div>
+
+      <!-- Auteur et catégorie -->
+      <div class="mt-4 space-y-1 text-sm text-gray-700">
+        <p><strong>Auteur:</strong> {{ author }}</p>
+        <p><strong>Catégorie:</strong> {{ category }}</p>
       </div>
     </div>
   </div>
