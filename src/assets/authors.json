@@ -1,7 +1,7 @@
 [
   {
     "title": "Chastel : Ou le Secret de la Bestia",
-    "description": "Un thriller captivant auto-édité.",
+    "description": "Un thriller captivant qui vous plongera dans les mystères d'une petite ville française. Entre suspense et révélations, découvrez les secrets enfouis de Chastel.",
     "link": "https://www.amazon.fr/Chastel-Secret-Bestia-M-K-ebook/dp/B0F2GBSG88/",
     "images": [
       "/assets/images/MChastel_oulesecretdelaBestia.jpg"
@@ -11,27 +11,47 @@
     ],
     "author": "M.K.",
     "category": "Thriller",
-    "nouveau": 0,
-    "coupdecoeur": 1,
-    "promo": 1
+    "nouveau": 1,
+    "coupDeCoeur": 0,
+    "promo": 0,
+    "wattpad":0,
+    "completed": 1,
+    "pageCount": 287,
+    "tags": ["thriller", "mystère", "suspens"],
+    "rating": "",
+    "isbn": "979-1040577232",
+    "language": "Français",
+    "releaseDate": " 25 mars 2025",
+    "extendedDescription": "Royaume de France, 1764. Au siècle des Lumières est née l’une des plus incroyables histoires venant du profond Gévaudan. Ses origines ont jusqu’à aujourd’hui été baignées de mystère et de légendes. Malgré les tragédies qui ont marqué cette province et ses habitants, pendant plus de deux cents ans, le secret de cette histoire demeure. Ou du moins jusqu’à aujourd’hui. Qui, l’ayant entendue, n’a jamais rêvé de percer son mystère ? Pouvoir raconter les événements qui s’y sont succédé à travers les yeux des principaux protagonistes est en effet une première. De cette histoire terrible et envoûtante, aujourd’hui, l’auteur nous offre une vision unique et passionnante. Tiens-toi bien ô lecteur, car ici commence l’histoire de la Bestia."
   },
   {
     "title": "La putain de Manhattan",
-    "description": "Une romance contemporaine, avec une vibe à la Pretty Woman.",
+    "description": "Matt Ortiz est un jeune homme respectable, avec un travail respectable, des fréquentations respectables et une famille, somme toute, respectable elle aussi. Mais, lorsque entraîné malgré lui dans une maison close new-yorkaise, il fait la connaissance d’une prostituée à la sensualité renversante, sa vie bascule. Elle est belle et elle l’obsède. Rapidement, les deux amants tombent dans l’engrenage des jeux amoureux. Cependant, dans la balance pèsent les attentes de son père, autoritaire et intransigeant, qui cherche à transmettre à ses fils la direction de l’entreprise familiale. Un dilemme se présente alors à lui et Matt devra choisir : vivre son idylle naissante avec la ravissante Amaya ou se conformer aux exigences de la haute société.",
     "link": "https://www.leslettresdemarine.com/la-putain-de-manhattan",
-    "images": [],
+    "images": [
+      "/assets/images/LaputaindeManhattan.jpg"
+    ],
     "socials": [
       { "link": "https://www.instagram.com/leslettresdemarine/", "icon": "fab fa-instagram" }
     ],
     "author": "Marine Duchemin",
-    "category": "Romance contemporaine, feel-good",
-    "nouveau": 0,
-    "coupdecoeur": 1,
-    "promo": 1
+    "category": "Romance contemporaine",
+    "nouveau": 1,
+    "coupDeCoeur": 0,
+    "promo": 0,
+    "wattpad":0,
+    "completed": 1,
+    "pageCount": 352,
+    "tags": ["romance", "social gap", "respect"],
+    "rating": "4,9",
+    "isbn": "978-2958575908",
+    "language": "Français",
+    "releaseDate": " 1 mars 2023",
+    "extendedDescription": "Matt Ortiz est un jeune homme respectable, avec un travail respectable, des fréquentations respectables et une famille, somme toute, respectable elle aussi. Mais, lorsque entraîné malgré lui dans une maison close new-yorkaise, il fait la connaissance d’une prostituée à la sensualité renversante, sa vie bascule. Elle est belle et elle l’obsède. Rapidement, les deux amants tombent dans l’engrenage des jeux amoureux. Cependant, dans la balance pèsent les attentes de son père, autoritaire et intransigeant, qui cherche à transmettre à ses fils la direction de l’entreprise familiale. Un dilemme se présente alors à lui et Matt devra choisir : vivre son idylle naissante avec la ravissante Amaya ou se conformer aux exigences de la haute société."
   },
   {
-    "title": "Les battements de mon coeur",
-    "description": "Une romance contemporaine",
+    "title": "Les battements de mon cœur",
+    "description": "Une romance contemporaine touchante qui explore les méandres du cœur humain. Une histoire d'amour authentique et émouvante.",
     "link": "https://www.amazon.fr/dp/B0DVT4416L?ref=cm_sw_r_ffobk_mwn_dp_KOIE6OP0IYWQZ2LZVHWN&ref_=cm_sw_r_ffobk_mwn_dp_KOIE6OP0IYWQZ2LZVHWN&social_share=cm_sw_r_ffobk_mwn_dp_KOIE6OP0IYWQZ2LZVHWN&language=fr-FR&bestFormat=true",
     "images": [
       "/assets/images/LaetitiaDeMenech-Lesbattementsdetoncoeur.jpg"
@@ -41,30 +61,48 @@
     ],
     "author": "Laetitia De Menech",
     "category": "Romance contemporaine",
-    "nouveau": 0,
-    "coupdecoeur": 1,
-    "promo": 1
+    "nouveau": 1,
+    "coupDeCoeur": 0,
+    "promo": 0,
+    "wattpad":0,
+    "completed": 1,
+    "pageCount": 356,
+    "tags": ["romance", "comédie", "romance à suspens"],
+    "rating": "4,4",
+    "isbn": "979-8305033267",
+    "language": "Français",
+    "releaseDate": " 1 mars 2025",
+    "extendedDescription": "Clémence mène une vie tranquille et dans laquelle tout lui réussi : un bon travail, une relation amoureuse stable,... Et elle ne changerai ça pour rien au monde. Mais elle est loin de se douter que le week-end en amoureux qui lui prépare Léonard, son copain, va bouleverser sa vie à tout jamais. Clémence arrivera-t-elle a mener une existence normale à présent ?"
   },
   {
     "title": "Ensemble",
-    "description": "Une romance contemporaine, avec une vibe à la Pretty Woman.",
-    "link": "https://www.amazon.fr/dp/B0D6M6SY1B?__mk_fr_FR=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&crid=2XJNHFVD8UOY9&dib=eyJ2IjoiMSJ9.i4v3a9XBo8M2C7kYXYCaiA.LUzp1wTKUYOjzu-nTrEXCbJ8YWagiWqTxM_2sDClmXE&dib_tag=se&keywords=celine%20bigler&qid=1738942163&sprefix=celine%20bigler,aps,87&sr=8-1",
+    "description": "Un roman profondément humain qui explore les liens qui nous unissent. Une histoire bouleversante sur l'amitié, l'amour et la résilience.",
+    "link": "https://www.amazon.fr/Ensemble-C%C3%A9line-Bigler/dp/B0DYP49HSX",
     "images": [
       "/assets/images/CelineBigler-Ensemble.jpg"
-
     ],
     "socials": [
       { "link": "https://www.instagram.com/celinebigler.autrice/", "icon": "fab fa-instagram" }
     ],
     "author": "Céline Bigler",
-    "category": "Roman",
-    "nouveau": 0,
-    "coupdecoeur": 1,
-    "promo": 1
+    "category": "Roman contemporain",
+    "nouveau": 1,
+    "coupDeCoeur": 0,
+    "promo": 0,
+    "wattpad":0,
+    "completed": 1,
+    "pageCount": 205,
+    "tags": ["romance", "suisse", "bouleversant"],
+    "rating": "5",
+    "isbn": "979-8312323917",
+    "language": "Français",
+    "releaseDate": " 12 février 2025",
+    "extendedDescription": "Après des mois de solitude et de douleurs, Alice décide de tout quitter et de partir en voyage humanitaire en Afrique. Ce choix impulsif est sa bouée de sauvetage, une tentative désespérée de retrouver un sens à sa vie.Plongée dans un monde à milles lieues de son quotidien, elle découvre une réalité bouleversante: celle des enfants talibés, marqués par la pauvreté et la violence, mais dont les sourires et la résilience illuminent chaque instant. Au fil des jours, Alice tisse des liens profonds avec les bénévoles de l'association, chacun portant ses propres blessures et espoirs. Parmi eux, Giovanni, mystérieux et solaire, éveille en elle des émotions qu’elle croyait à jamais enfouies.Entre les défis du quotidien, les liens profonds tissés avec ceux qui l’entourent et les blessures d’un passé qui continue de la hanter, Alice entame une quête d’espoir, de sens et peut-être, d’amour. Mais ce chemin vers la lumière sera-t-il suffisant pour panser ses plaies et lui permettre de se retrouver ?"
+
   },
   {
     "title": "La loyauté du Royaume",
-    "description": "Une romance contemporaine, avec une vibe à la Pretty Woman.",
+    "description": "Dans un monde aux apparences simples mais qui cache en réalité de nombreux secrets enfouis, suivez Ada, une garde au passé trouble, offrant sa loyauté à un royaume qui lui demandera toujours plus.",
     "link": "https://lauravictoriabb.fr/",
     "images": [
       "/assets/images/LauraVictoriaBousseauBleyer-Laloyeauteduroyame.jpg"
@@ -74,27 +112,47 @@
     ],
     "author": "Laura-Victoria Bousseau-Bleyer",
     "category": "Fantasy",
-    "nouveau": 0,
-    "coupdecoeur": 1,
-    "promo": 1
+    "nouveau": 1,
+    "coupDeCoeur": 0,
+    "promo": 0,
+    "wattpad":0,
+    "completed": 1,
+    "pageCount": 458,
+    "tags": ["fantasy"],
+    "rating": "5",
+    "isbn": "978-2322561513",
+    "language": "Français",
+    "releaseDate": " 20 mars 2025",
+    "extendedDescription": "Les coïncidences n'existent pas. Pourtant elles jonchent les vies de ceux qui veulent bien les voir. Tandis que le monde sombre dans la peur et les rumeurs, Ada va osciller entre légendes et certitudes. Sommée par les lois antiques, la Loyauté du royaume se doit d'affronter sa plus grande peur. Alors qu'elle patauge parmi des indices plus incompréhensibles les uns que les autres, malmenée par une magie inconnue et terrifiante, Ada se met à rêver. D'étranges rêves, trop vivides pour ne pas y déceler une vérité. De l'autre côté des montagnes, un peuple draconique cherche la survie, par tous les moyens."
   },
   {
     "title": "Moi, j'ai été choisie",
-    "description": "Toute vue est unique, celle-ci est la mienne.",
-    "link": "https://lauravictoriabb.fr/",
-    "images": [],
+    "description": "Un témoignage poignant et authentique. Une vision unique sur la vie, racontée avec sincérité et émotion.",
+    "link": "https://la-plume-de-dom.sumupstore.com/",
+    "images": [
+      "/assets/images/laplumededom.png"
+    ],
     "socials": [
       { "link": "https://www.instagram.com/laplumededom/", "icon": "fab fa-instagram" }
     ],
     "author": "La plume de Dom",
     "category": "Témoignage",
-    "nouveau": 0,
-    "coupdecoeur": 1,
-    "promo": 1
+    "nouveau": 1,
+    "coupDeCoeur": 0,
+    "promo": 0,
+    "wattpad":0,
+    "completed": 1,
+    "pageCount": "",
+    "tags": ["abandon", "adoption", "émouvant"],
+    "rating": "",
+    "isbn": "",
+    "language": "Français",
+    "releaseDate": "1 décembre 2023",
+    "extendedDescription": "Je raconte ma naissance, mon abandon à l'âge de 3 mois puis mon adoption lorsque j'ai 11 mois et les retrouvailles avec ma mère biologique 30 ans plus tard grâce à mes parents adoptifs qui m'ont remis mon dossier concernant mon adoption.Je me livre à vous et espère que mon livre vous touchera, qu'il ouvrira des portes pour des personnes dans la même situation que la mienne. Je vous dis tout ! Résilience - Courage - Guerrière"
   },
   {
     "title": "Glow up Beach !",
-    "description": "Toute vue est unique, celle-ci est la mienne.",
+    "description": "Une comédie romantique rafraîchissante qui vous transportera sous le soleil. Humour, romance et transformation personnelle au rendez-vous !",
     "link": "https://www.amazon.fr/dp/B0F1YTYYCF?ref=cm_sw_r_ffobk_cp_ud_dp_XY00NYZQGH3DEXKAW1WG&ref_=cm_sw_r_ffobk_cp_ud_dp_XY00NYZQGH3DEXKAW1WG&social_share=cm_sw_r_ffobk_cp_ud_dp_XY00NYZQGH3DEXKAW1WG&bestFormat=true",
     "images": [
       "/assets/images/EmmaHermosa-GlowupBeach.jpg"
@@ -104,13 +162,22 @@
     ],
     "author": "Emma Hermosa",
     "category": "Comédie romantique",
-    "nouveau": 0,
-    "coupdecoeur": 1,
-    "promo": 1
+    "nouveau": 1,
+    "coupDeCoeur": 0,
+    "promo": 0,
+    "wattpad":0,
+    "completed": 1,
+    "pageCount": 153,
+    "tags": ["romance", "comedie"],
+    "rating": "4,4",
+    "isbn": "",
+    "language": "Français",
+    "releaseDate": " 18 mars 2025",
+    "extendedDescription": "Depuis plusieurs années, Maeva mène une guerre sans fin contre ses kilos en trop. Régimes miracles, privations et astuces minceur en tous genre ne lui ont pas permis d’obtenir la silhouette de ses rêves. Déterminée à en finir avec ses complexes avant l’épreuve fatidique du maillot de bain, elle s’inscrit au Summer Body Challenge, un programme sportif intensif qui doit lui permettre de dégommer ses rondeurs en un temps record. Le deal est simple : si elle atteint son objectif, elle ne déboursera pas un centime. Mais, en cas d’échec ou d’abandon, elle devra passer à la caisse. Le hic ? Léo, son coach sportif. Aussi agaçant que séduisant, il se montrera intransigeant avec les candidats. Entre défis sportifs, doutes, craquages et montagnes russes émotionnelles, Maeva aura-t-elle la force d’aller au bout du défi qu’elle s’est lancée ? Une aventure palpitante, qui pourrait lui offrir bien plus que ce qu’elle était venue chercher."
   },
   {
     "title": "Rouge sang",
-    "description": "Toute vue est unique, celle-ci est la mienne.",
+    "description": "Plongez dans un univers sombre et mystérieux où la magie côtoie l'horreur. Une dark fantasy qui ne vous laissera pas indifférent.",
     "link": "https://www.amazon.fr/dp/B0CLCDPRSC?ref_=cm_sw_r_cp_ud_dp_7ZW0QG6TC9PE1DA96KGS",
     "images": [
       "/assets/images/Nadege-Rougesang.jpg"
@@ -120,27 +187,47 @@
     ],
     "author": "Nadège",
     "category": "Dark Fantasy",
-    "nouveau": 0,
-    "coupdecoeur": 1,
-    "promo": 1
+    "nouveau": 1,
+    "coupDeCoeur": 0,
+    "promo": 0,
+    "wattpad":0,
+    "completed": 1,
+    "pageCount": 111,
+    "tags": ["dark fantasy", "horreur", "fantasy"],
+    "rating": "4,4",
+    "isbn": "",
+    "language": "Français",
+    "releaseDate": " 31 octobre 2023",
+    "extendedDescription": "''Ils se marièrent et eurent beaucoup d'enfants... Fadaises que tout ceci ! Pourtant, tout m'était promis : le bonheur, l'insouciance, même l'amour, que l'on me jurait éternel. Ce que l'on nomme le Destin m'a tout repris et l'homme qui partage ma vie a brisé l'ensemble des serments qu'il a proféré devant l'autel. Dorénavant, je le jure, ceux qui croiseront ma route devront me payer une dette de sang et ce, jusqu'à ce que la mort ne vienne m'empêcher de poursuivre mon oeuvre de destruction''. Vous qui lisez ces lignes, si la magie la plus sombre et les histoires de vengeance ne vous effraient en rien, osez donc tournez la première page pour venir découvrir ce qui s'est déroulé après la fin de 'Blanche Neige et les sept nains''."
   },
   {
     "title": "La dame au rat",
-    "description": "Toute vue est unique, celle-ci est la mienne.",
+    "description": "Dans ce roman de Dark Fantasy, nulle guerre épique ni de monde à sauver de la destruction. Senalina doit composer avec l'âme qui partage son corps et son esprit : un rat au caractère revêche qui n'a pas de mots assez durs pour qualifier les humanoïdes.Au moment où tout semble aller pour le mieux dans sa vie, elle découvre que l'Elfe dont elle se croyait amoureuse la manipule et la trahit. La vengeance devient alors sa seule motivation. Car la vermine n'a pas toujours l'aspect d'un rat...",
     "link": "https://www.amazon.fr/dp/B0DFGF5PFV?ref=cm_sw_r_ffobk_cso_cp_apan_dp_W94F0WM3B96B43NHPPH4&ref_=cm_sw_r_ffobk_cso_cp_apan_dp_W94F0WM3B96B43NHPPH4&social_share=cm_sw_r_ffobk_cso_cp_apan_dp_W94F0WM3B96B43NHPPH4&bestFormat=true&previewDoh=1",
-    "images": [],
+    "images": [
+      "/assets/images/51jXnr-Us3L._SY522_.jpg"
+    ],
     "socials": [
       { "link": "https://www.instagram.com/chipdel/", "icon": "fab fa-instagram" }
     ],
     "author": "Amandine Landrieux",
     "category": "Dark Fantasy",
-    "nouveau": 0,
-    "coupdecoeur": 1,
-    "promo": 1
+    "nouveau": 1,
+    "coupDeCoeur": 0,
+    "promo": 0,
+    "wattpad":0,
+    "completed": 1,
+    "pageCount": 383,
+    "tags": ["dark fantasy", "violence", "fantasy"],
+    "rating": "4,7",
+    "isbn": "979-8337558851",
+    "language": "Français",
+    "releaseDate": " 27 août 2024",
+    "extendedDescription": "Senalina est une Mana. En tant que telle, elle partage son esprit et son corps avec un animal. En l'occurrence : un rat. Suite à une série d'actes de bravoure, elle est conviée à frayer avec les plus hautes sphères du pouvoir Elfe. Mais c'est son compagnon d'armes qui en reçoit tout le mérite, alors qu'il n'est qu'un imposteur. C'est elle, la véritable héroïne ! C'est à elle que doivent revenir la récompense et la gloire ! S'ensuit pour Senalina une quête insensée pour récupérer ce qui lui revient de droit... Quoi qu'il en coûte !"
   },
   {
     "title": "Runic Legacy: Episode 1 - Le secret oublié",
-    "description": "Toute vue est unique, celle-ci est la mienne.",
+    "description": "Dans ce court roman illustré, plongez dans une saga captivante qui mêle fantastique, science-fiction et aventure. Explorez un monde mystérieux et énigmatique où chaque page vous entraîne plus profondément vers une destinée inévitable. Une bataille épique se profile à l'horizon, laissant l'avenir du monde incertain…",
     "link": "https://www.amazon.fr/dp/2959508904",
     "images": [
       "/assets/images/AnthonyDoms-RunicLegacy.jpg"
@@ -149,9 +236,18 @@
       { "link": "https://www.instagram.com/domsanthony/", "icon": "fab fa-instagram" }
     ],
     "author": "Anthony Doms",
-    "category": "Fantasy, science-fiction, horreur",
-    "nouveau": 0,
-    "coupdecoeur": 1,
-    "promo": 1
+    "category": "Fantasy / Science-fiction",
+    "nouveau": 1,
+    "coupDeCoeur": 0,
+    "promo": 0,
+    "wattpad":0,
+    "completed": 1,
+    "pageCount": 231,
+    "tags": ["fantasy", "science-fiction", "horreur"],
+    "rating": "5",
+    "isbn": "978-2959508905",
+    "language": "Français",
+    "releaseDate": " 10 décembre 2024",
+    "extendedDescription": "Après avoir détecté une anomalie étrange au cœur d'une montagne, Noralyne, qui travaille pour l'ITCA, se rend sur place. Ce qu'elle y découvre, sans le savoir, sera le déclencheur d'une série d'événements qui plongeront le monde dans un avenir sombre et chaotique. Pendant ce même intervalle de temps, Kal, tourmenté par des visions terrifiantes, se retrouve confronté à des images incohérentes et inexplicables qui semblent venir d'une époque révolue. Un peu plus tard, ce qu’il croyait n'être que le fruit de son imagination prend une tournure bien plus inquiétante lorsqu’il découvre un lien direct et tangible avec la découverte de Noralyne…"
   }
 ]
